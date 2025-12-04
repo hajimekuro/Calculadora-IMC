@@ -2,9 +2,8 @@
 
 Este proyecto es una calculadora de **Índice de Masa Corporal (IMC)** completamente funcional, construida con HTML, CSS, JavaScript y Bootstrap. Incluye un sistema de historial, alternancia entre unidades métricas e imperiales, cálculos en tiempo real y un diseño moderno y responsivo.
 
----
 
-## 📌 Características principales
+##  Características principales
 
 - ✔️ Cálculo de IMC en **sistema métrico** y **sistema imperial**  
 - ✔️ Resultados con **categoría**, **descripción** y estilo visual dinámico  
@@ -15,9 +14,8 @@ Este proyecto es una calculadora de **Índice de Masa Corporal (IMC)** completam
 - ✔️ Interfaz construida con **Bootstrap 5**  
 - ✔️ Totalmente responsiva  
 
----
 
-## 🧮 Fórmulas utilizadas
+##  Fórmulas utilizadas
 
 ### Sistema Métrico
 \[
@@ -29,9 +27,8 @@ IMC = rac{peso\ (kg)}{altura\ (m)^2}
 IMC = rac{peso\ (lb)\ 	imes\ 703}{altura\ (in)^2}
 \]
 
----
 
-## 🗂️ Estructura principal del proyecto
+##  Estructura principal del proyecto
 
 El proyecto consiste en un único archivo HTML que contiene:
 
@@ -49,9 +46,8 @@ Diseño moderno con paleta personalizada, sombras, estilos responsivos y tarjeta
 - Estilos dinámicos por categoría  
 - Recalculo en tiempo real  
 
----
 
-## 🖼️ Vista general del funcionamiento
+##  Vista general del funcionamiento
 
 1. El usuario selecciona si quiere usar **métrico** o **imperial**.  
 2. Ingresa los datos de peso y altura.  
@@ -64,9 +60,8 @@ Diseño moderno con paleta personalizada, sombras, estilos responsivos y tarjeta
 5. El resultado se guarda opcionalmente en el historial.  
 6. El historial puede verse, eliminar entradas o vaciarse completamente.  
 
----
 
-## 🧾 Categorías de IMC
+##  Categorías de IMC
 
 | Rango IMC | Categoría | Color |
 |----------|-----------|--------|
@@ -75,9 +70,8 @@ Diseño moderno con paleta personalizada, sombras, estilos responsivos y tarjeta
 | 25.0 – 29.9 | Sobrepeso | Amarillo |
 | ≥ 30 | Obesidad | Rojo |
 
----
 
-## 🔧 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **HTML5**
 - **CSS3** + estilos personalizados  
@@ -86,27 +80,24 @@ Diseño moderno con paleta personalizada, sombras, estilos responsivos y tarjeta
 - **JavaScript puro**
 - **LocalStorage API**
 
----
 
-## 🚀 Cómo usar este proyecto
+##  Cómo usar este proyecto
 
 1. Descarga el archivo `index.html`.
 2. Abre el archivo en cualquier navegador moderno.
 3. ¡Listo! No requiere servidor ni instalación adicional.
 
----
 
-## 📂 Archivo incluido
+##  Archivo incluido
 
 Este repositorio contiene:
 
 - `index.html` → Todo el proyecto completo
 
----
 
-## 👨‍💻 Autor
+##  Autor
 
-Proyecto desarrollado por **Jaime Altamiranda**.
+Proyecto desarrollado por **Jaime Altamiranda** **Carlos Reyna** **José Zorrilla**
 
 ---
 

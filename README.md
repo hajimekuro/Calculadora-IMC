@@ -5,14 +5,14 @@ Este proyecto es una calculadora de **Índice de Masa Corporal (IMC)** completam
 
 ##  Características principales
 
-- ✔️ Cálculo de IMC en **sistema métrico** y **sistema imperial**  
-- ✔️ Resultados con **categoría**, **descripción** y estilo visual dinámico  
-- ✔️ **Historial persistente** usando LocalStorage  
-- ✔️ Eliminación individual de registros del historial  
-- ✔️ Limpieza total del historial  
-- ✔️ Recalculo dinámico en tiempo real  
-- ✔️ Interfaz construida con **Bootstrap 5**  
-- ✔️ Totalmente responsiva  
+-  Cálculo de IMC en **sistema métrico** y **sistema imperial**  
+-  Resultados con **categoría**, **descripción** y estilo visual dinámico  
+-  **Historial persistente** usando LocalStorage  
+-  Eliminación individual de registros del historial  
+-  Limpieza total del historial  
+-  Recalculo dinámico en tiempo real  
+-  Interfaz construida con **Bootstrap 5**  
+-  Totalmente responsiva  
 
 
 ##  Fórmulas utilizadas
@@ -32,13 +32,13 @@ IMC = rac{peso\ (lb)\ 	imes\ 703}{altura\ (in)^2}
 
 El proyecto consiste en un único archivo HTML que contiene:
 
-### ✔ HTML  
+###  HTML  
 Estructura de la interfaz, formularios, historial, botones y tarjeta de resultados.
 
-### ✔ CSS  
+###  CSS  
 Diseño moderno con paleta personalizada, sombras, estilos responsivos y tarjetas dinámicas según la categoría del IMC.
 
-### ✔ JavaScript  
+###  JavaScript  
 - Cálculo según unidad seleccionada  
 - Validaciones  
 - Sistema de historial  
